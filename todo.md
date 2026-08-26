@@ -1,14 +1,18 @@
 ## PCB
 
-- [ ] Finish drawing schematic 
-- [ ] Add footprints
+- [x] Finish drawing schematic 
+- [x] Add footprints
+- [x] Route pcb
+- [x] Add silkscreen design
 
 ## Research
 
 - [ ] Learn how OLED works with QMK
-- [ ] Learn about ground pour
 - [ ] 
 
+## Firmware
+
+- [ ] Learn how to make macros
 
 ## Pixel Art
 
