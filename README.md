@@ -16,7 +16,7 @@ A few weeks ago, I saw an interesting project on Reddit - a small voice assistan
 
 ## Layout
 
-The Amazepad features 6 mechanical keyswitches and one rotary encoder. In my firmware, the rotary encoder controls the computer's volume and the keys have the following functions:
+The Amazepad features 6 mechanical keyswitches and one rotary encoder. In my firmware, the rotary encoder controls the computer's volume and the keys are arranged like so:
 
 | MUTE | CRTL+A | CTRL+Z |
 
