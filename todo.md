@@ -17,7 +17,7 @@
 
 ## Shipping Prep
 
-- [ ] Upload 3d model files
+- [x] Upload 3d model files
 - [ ] Upload PCB files (schematic, BOM, .pro, etc)
 - [ ] Write README
-- [ ] Upload firmware
+- [x] Upload firmware
