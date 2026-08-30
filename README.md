@@ -1,2 +1,14 @@
 # Amazepad
 A hackpad featuring a small display with Rocky from Project Hail Mary to help with your projects
+
+
+## Bill of Materials
+
+|Part                 |Qty|Cost(USD)|Source       |
+|---------------------|---|---------|-------------|
+|4.7k ohm resistor    | 2 | $0      | My own stuff|
+|1N4148 diode         | 6 | $0      | Hackpad kit |
+|Cherry MX keyswitches| 6 | $0      | Hackpad kit |
+|Rotary encoder       | 1 | $0      | Hackpad kit |
+|Seeeduino Xiao RP2040| 1 | $0      | Hackpad kit |
+|0.91 OLED            | 1 | $0      | Hackpad kit |
