@@ -5,7 +5,7 @@ A hackpad with six keys, a rotary encoder and a small OLED display featuring Roc
 ![The PCB routing in Kicad](https://github.com/fish-in-a-puddle/Amazepad/blob/main/Images/pcb.png)
 
 
-![The full case in SketchUp]()
+![The full case in SketchUp](https://github.com/fish-in-a-puddle/Amazepad/blob/main/Images/casefull.png)
 
 #### This project was made for Hack Club's Stardance! Check it out [here](https://stardance.hackclub.com/projects/46887)
 
